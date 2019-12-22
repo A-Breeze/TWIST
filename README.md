@@ -35,5 +35,6 @@ Try adjusting the mean response surface by giving it a **twist** to add an inter
 See the following files for more details about the project and development plan:
 1. [`Project_Structure.md`](https://github.com/A-Breeze/TWIST/blob/master/Project_Structure.md): Manual documentation of the folders and files that make up the project.
 1. [`TODO.md`](https://github.com/A-Breeze/TWIST/blob/master/TODO.md): Development plan for releases.
+1. [`Misc_development_notes.md`](https://github.com/A-Breeze/TWIST/blob/master/Misc_development_notes.md): Other notes that have been accrued and might be helpful while developing.
 
 <div align="right"><a href="#contents">Back to top</a></div>
