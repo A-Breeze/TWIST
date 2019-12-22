@@ -12,7 +12,7 @@ Documenting the short-term and long-term development plan for the project. Of co
 
 ## In development tasks
 ### v0.1.0: MVP Simulate and visualise two variables
-- [ ] Simulate two variables X_1,X_2 from joint normal with mean 0 and specified variances and covariance, using `numpy`. Specify number of points. Specify random seed.
+- [x] Simulate two variables X_1,X_2 from joint normal with mean 0 and specified variances and covariance, using `numpy`. Specify number of points. Specify random seed.
 - [ ] Create class to hold simulated data + method to generate data + initialise with default values.
 - [ ] Create dashboard app (separate module)
 - [ ] Visualise scatter plot using `bokeh` package
