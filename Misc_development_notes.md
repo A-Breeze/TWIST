@@ -4,11 +4,11 @@ Other notes that have been accrued and might be helpful while developing. These 
 
 ## Contents
 <!-- This contents is kept up to date *manually* -->
-1. [Using `conda`](#Using-conda)
+1. [Using conda](#Using-conda)
 
 <div align="right"><a href="#contents">Back to top</a></div>
 
-## Using `conda`
+## Using conda
 ### Choosing a package to install
 Find a list of the available versions of your package:
 ```
