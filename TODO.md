@@ -4,7 +4,7 @@ Documenting the short-term and long-term development plan for the project.
 
 ## Contents
 <!-- This contents is kept up to date *manually* -->
-1. [In development tasks: v0.1.0](#In-development-tasks:-v010)
+1. [In development tasks: v0.1.0](#In-development-tasks:-v0.1.0)
 1. [Features backlog](#Features-backlog)
 
 <div align="right"><a href="#contents">Back to top</a></div>
