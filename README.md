@@ -1,4 +1,4 @@
-<!-- To view this file rendered, try openning VSCode and clicking to open the "Preview" pane -->
+<!-- To view this file rendered, try opening VSCode and clicking to open the "Preview" pane -->
 # TWIST
 Two-Way Interaction Simulator and Tester
 
