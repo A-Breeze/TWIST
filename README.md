@@ -1,10 +1,15 @@
 <!-- To view this file rendered, try opening VSCode and clicking to open the "Preview" pane -->
-# TWIST
-Two-Way Interaction Simulator and Tester
+# TWIST - Two-Way Interaction Simulator and Tester
+An app to visualise how interactions in linear models work by allowing you to:
+- **Simulate** data points from **two** explanatory variables (by specifying their joint distribution), and the response variable (by specifying the mean response).
+- Fit a model to **test** what explanatory variables would be selected in a modelling process, and compare this to the true distribution.
+
+Try adjusting the mean response surface by giving it a **twist** to add an interaction variable!
 
 ## Contents
 <!-- This contents is kept up to date *manually* -->
 1. [How to start up the development environment](#How-to-start-up-the-development-environment)
+1. [Development resources](#Development-resources)
 
 <div align="right"><a href="#contents">Back to top</a></div>
 
@@ -23,5 +28,12 @@ Two-Way Interaction Simulator and Tester
     ```
     (twist_env) > where python | clip
     ```
+
+<div align="right"><a href="#contents">Back to top</a></div>
+
+## Development resources
+See the following files for more details about the project and development plan:
+1. [`Project_Structure.md`](https://github.com/A-Breeze/TWIST/Project_Structure.md): Manual documentation of the folders and files that make up the project.
+1. [`TODO.md`](https://github.com/A-Breeze/TWIST/TODO.md): Development plan for releases.
 
 <div align="right"><a href="#contents">Back to top</a></div>
