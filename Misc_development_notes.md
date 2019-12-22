@@ -18,7 +18,7 @@ Find a list of the available versions of your package:
 
 ### Adding / removing / updating a package
 1. Amend the `environment.yml` as required.
-1. In a Terminal, navigate to the project's root. Best practice is to **deactivate** the conda env.
+1. In a Terminal, navigate to the project's root.
 1. Clean the history[^1], e.g. by:
     - Opening the history
     ```cmd
