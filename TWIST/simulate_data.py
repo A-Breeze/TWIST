@@ -50,7 +50,10 @@ class SimulatedDataSet:
 
         npr.seed(self.seed)
         self.explanatory_arr = npr.multivariate_normal(
-            mean=self.true_means
-            , cov=pow(np.array([[self.true_sds[0], self.true_corr], [self.true_corr, self.true_sds[1]]]), 2)
-            , size=self.sample_size
+            mean=self.true_means,
+            cov=np.square(np.array(
+                [[self.true_sds[0], self.true_corr],
+                 [self.true_corr, self.true_sds[1]]]
+            )),
+            size=self.sample_size
         )
